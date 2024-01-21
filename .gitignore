@@ -1,4 +1,5 @@
 .DS_Store
+app/static/img/upload/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
